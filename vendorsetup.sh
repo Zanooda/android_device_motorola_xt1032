@@ -1,2 +1,2 @@
-add_lunch_combo cm_xt1032-userdebug
+add_lunch_combo carbon_xt1032-userdebug
 
