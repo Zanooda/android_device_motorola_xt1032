@@ -1,4 +1,4 @@
-# Inherit some common CM stuff.
+# Inherit some common carbon stuff.
 $(call inherit-product, vendor/carbon/config/common_phone.mk)
 
 # Boot animation
